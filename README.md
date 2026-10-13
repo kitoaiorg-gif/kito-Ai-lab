@@ -25,7 +25,7 @@ Africa's Talking API, Python Flask, PostgreSQL, Luganda/Swahili NLP, WhatsApp Cl
 Unique users, health assessments, common symptoms, referrals needed/made, reminder enrolment/completion, follow-ups, languages, geography.
 
  Team
-Tiya Abdalah - Co-Founder & Technology Lead
+SANYU christiana- Co-Founder & CEO
 KITO AI LAB - Kampala, Uganda
  License
 MIT
